@@ -1,6 +1,6 @@
 # JS Drum Kit
 
-This is a simple JavaScript Drum Kit project that allows users to play drum sounds by either pressing corresponding keys on the keyboard or clicking on the drum icons on the web page.
+This is a simple JavaScript Drum Kit project that allows users to play drum sounds by pressing corresponding keys on the keyboard .
 
 ## Live Preview
 
@@ -10,7 +10,6 @@ You can view a live preview of the project [here](https://ozioma45.github.io/Js_
 
 - Plays drum sounds corresponding to specific keys on the keyboard.
 - Visual feedback for key presses.
-- Clickable drum icons for playing sounds.
 
 ## Usage
 
@@ -18,10 +17,6 @@ You can view a live preview of the project [here](https://ozioma45.github.io/Js_
 
    - Press the keys A, S, D, F, G, H, J, K, L to play different drum sounds.
    - Each key corresponds to a specific drum sound (e.g., A for clap, S for hihat).
-
-2. **Mouse Input:**
-   - Click on the drum icons displayed on the web page to play the corresponding drum sounds.
-   - Each drum icon represents a specific drum sound.
 
 ## Installation
 
